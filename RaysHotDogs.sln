@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaysHotDogs.Core", "RaysHotDogs.Core\RaysHotDogs.Core.csproj", "{E752B298-2C92-4AD1-AE10-D4F510D8B20A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaysHotDogs", "RaysHotDogs\RaysHotDogs.csproj", "{13AA8F9A-3966-4D18-A928-C048A01CCBE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E752B298-2C92-4AD1-AE10-D4F510D8B20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E752B298-2C92-4AD1-AE10-D4F510D8B20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E752B298-2C92-4AD1-AE10-D4F510D8B20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E752B298-2C92-4AD1-AE10-D4F510D8B20A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AA8F9A-3966-4D18-A928-C048A01CCBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AA8F9A-3966-4D18-A928-C048A01CCBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AA8F9A-3966-4D18-A928-C048A01CCBE5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{13AA8F9A-3966-4D18-A928-C048A01CCBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AA8F9A-3966-4D18-A928-C048A01CCBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AA8F9A-3966-4D18-A928-C048A01CCBE5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C669FA46-B24A-475D-872C-3E5F83BC61DF}
+	EndGlobalSection
+EndGlobal
